@@ -1,0 +1,216 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "IRFS7530TRL7PP" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "Q" (id 0) (at 7.62379 0.0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "IRFS7530TRL7PP" (id 1) (at 7.62596 -2.54199 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "IRFS7530TRL7PP:TO127P1524X483-7N" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "DigiKey_Part_Number" "IRFS7530TRL7PPTR-ND" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SnapEDA_Link" "https://www.snapeda.com/parts/IRFS7530TRL7PP/Infineon+Technologies/view-part/?ref=snap" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Description" "\n                        \n                            RoHS Compliant | Improved Gate, Avalanche and Dynamic dV/dt Ruggedness | Fully Characterized Capacitance and Avalanche SOA | Enhanced body diode dV/dt and dI/dt Capability\n                        \n" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Package" "TO-263-7 International Rectifier" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Check_prices" "https://www.snapeda.com/parts/IRFS7530TRL7PP/Infineon+Technologies/view-part/?ref=eda" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MF" "Infineon" (id 9) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MP" "IRFS7530TRL7PP" (id 10) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "International Rectifier" (id 11) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "IRFS7530TRL7PP_0_0"
+      (polyline
+        (pts (xy -3.6576 2.413) (xy -3.6576 -2.54)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -3.6576 -2.54) (xy -5.08 -2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 0.0 1.905) (xy -2.0066 1.905)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.032 -1.905) (xy 0.0 -1.905)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 0.0 2.032) (xy 0.0 1.905)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 0.0 1.905) (xy 2.54 1.905)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.54 1.905) (xy 2.54 0.762)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.54 0.762) (xy 2.54 -1.905)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.54 -1.905) (xy 0.0 -1.905)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 0.0 -1.905) (xy 0.0 -2.032)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.54 0.762) (xy 1.905 -0.635)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 1.905 -0.635) (xy 3.175 -0.635)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 3.175 -0.635) (xy 2.54 0.762)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 1.905 0.762) (xy 2.54 0.762)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.54 0.762) (xy 3.175 0.762)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.286 0.0) (xy -0.762 -0.508)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -0.762 -0.508) (xy -0.762 0.0)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -0.762 0.0) (xy -0.762 0.508)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -0.762 0.508) (xy -2.286 0.0)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -0.889 0.254) (xy -2.286 0.0)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -1.143 0.254) (xy -2.032 0.0)) (stroke (width 0.3048))
+      )
+      (polyline
+        (pts (xy -2.032 0.0) (xy -0.889 -0.254)) (stroke (width 0.3048))
+      )
+      (polyline
+        (pts (xy -0.889 -0.254) (xy -0.889 0.254)) (stroke (width 0.3048))
+      )
+      (polyline
+        (pts (xy -0.889 0.254) (xy -1.905 0.0)) (stroke (width 0.3048))
+      )
+      (circle (center 0.0 -1.905) (radius 0.127)
+        (stroke (width 0.4064)) (fill (type none))
+      )
+      (circle (center 0.0 1.905) (radius 0.127)
+        (stroke (width 0.4064)) (fill (type none))
+      )
+      (text "D" (at -1.52411 2.54018 0)
+        (effects (font (size 0.812859 0.812859)) (justify bottom left))
+      )
+      (text "S" (at -1.77814 -3.42926 0)
+        (effects (font (size 0.812862 0.812862)) (justify bottom left))
+      )
+      (text "G" (at -4.83482 -1.27232 0)
+        (effects (font (size 0.814285 0.814285)) (justify bottom left))
+      )
+      (rectangle (start -2.79492 -2.54083) (end -2.032 -1.27)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (rectangle (start -2.79644 1.27111) (end -2.032 2.54)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (rectangle (start -2.79758 -0.890138) (end -2.032 0.889)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (polyline
+        (pts (xy -0.762 0.0) (xy -1.905 0.0)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.905 0.0) (xy -2.032 0.0)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -2.032 0.0) (xy -2.286 0.0)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.0 5.08) (xy 0.0 2.032)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.0 -5.08) (xy 0.0 -2.032)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -0.762 0.0) (xy 0.0 0.0)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.0 0.0) (xy 0.0 -1.778)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -5.08 -5.08) (xy 5.08 -5.08)) (stroke (width 0.254))
+      )
+      (pin passive line (at -5.08 -7.62 90.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -7.62 -2.54 0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 0.0 7.62 270.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -2.54 -7.62 90.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 0.0 -7.62 90.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 2.54 -7.62 90.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 5.08 -7.62 90.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)

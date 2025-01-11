@@ -4417,23 +4417,23 @@
 		)
 	)
 	(global_label "V_SUPPLY"
-		(shape output)
-		(at 143.51 25.4 180)
+		(shape input)
+		(at 132.08 25.4 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "e63742de-bb36-43a1-bed0-460b19848af0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.2719 25.4 0)
+			(at 144.3181 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
