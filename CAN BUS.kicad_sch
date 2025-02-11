@@ -3063,6 +3063,16 @@
 			"wxQREREREdEpA/4P8wlCeZADZ+4AAAAASUVORK5CYII="
 		)
 	)
+	(text "*propagation \ndelay resistor"
+		(exclude_from_sim no)
+		(at 138.938 73.152 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "43e5091b-379f-49a3-8807-d72e7f868ecb")
+	)
 	(hierarchical_label "CAN_RX"
 		(shape output)
 		(at 85.09 97.79 180)
